@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 MELD.Raw/
 MELD.Raw.tar.gz
+# Ignore extracted MELD data
+Dataset/
